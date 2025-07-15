@@ -1,4 +1,4 @@
-# Analise-de-Vendas
+# Análise de Vendas
 
 **📌 Relatório de Análise** - Previsão de Vendas com Regressão Linear
 
