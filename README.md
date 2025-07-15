@@ -1,4 +1,4 @@
-# Análise de Vendas
+# Análise de Vendas com Python e Power BI
 
 **📌 Relatório de Análise** - Previsão de Vendas com Regressão Linear
 
